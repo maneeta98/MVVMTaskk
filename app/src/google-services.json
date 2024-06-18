@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599892025835",
+    "project_id": "chaipani-e485e",
+    "storage_bucket": "chaipani-e485e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599892025835:android:3d3de415af319f57f279ae",
+        "android_client_info": {
+          "package_name": "com.example.chaipani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1CEeKYP_rXCTsoxFFSDzj4awnGmwL28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
